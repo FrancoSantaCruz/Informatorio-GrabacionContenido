@@ -43,7 +43,7 @@
     flex-grow: 1;
 }
 
-.recursos__title{
+.recursos__titulo{
     display: flex;
     justify-content: center;
     text-decoration: underline;
